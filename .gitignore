@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# py charm
+.idea/
+
+# udacity project files
+newsdata.sql
